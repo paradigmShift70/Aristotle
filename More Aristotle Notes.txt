@@ -1,0 +1,117 @@
+Theorem Building
+
+Argument Analysis
+
+Logic Learning & Practice
+
+
+Tools
+   Deductive
+      Analytic
+         Deductive Analysis
+
+      Synthetic
+         Proof Builder
+
+   Inductive
+      Analytic
+         Inductive Anaylsis
+
+      Synthetic
+         Probability Workshop
+         Proof builder
+
+   Both
+      Analytic
+         Arument Diagrammer
+         Fallacy Finder
+
+      Synthetic
+         Definition Lab
+
+
+
+
+
+
+
+
+
+
+
+[Inherit]
+
+   <name>
+
+[Logic System]
+
+   <name>
+   <notes>
+
+   [Symbols]
+
+      <name>
+      <notes>
+      <quoted string>
+
+   [Deductive Calculus]
+
+      <name>
+      <notes>
+      <sequent>
+
+   [Derived Forms]
+
+      <name>
+      <notes>
+      <sequent>
+      <proof>
+
+[Theory]
+
+   <name>
+   <notes>
+
+   [Definitions]
+
+      <name>
+      <notes>
+      <type>: Proposition, Predicate, Function, enumerating, etc.
+      <type-specific definiendum>
+      <type-specific definiens>
+
+   [Axioms]
+
+      <name>
+      <notes>
+      <english>
+      <type>
+      <type-specific>: <form> | <probability> | <strength> | etc.
+
+   [Theorems]
+
+      <name>
+      <notes>
+      <type>: deductive, probability, etc.
+      <type-specific>: <proof & sequent>, etc.
+
+[Meta-Theory]
+
+   <name>
+   <notes>
+
+   [etc.]
+
+
+
+
+
+-  Inherit
+-  Logic
+   -  
+-  Theory
+   -  Axioms
+      -  Ax1
+      -  Ax2
+
+-  
